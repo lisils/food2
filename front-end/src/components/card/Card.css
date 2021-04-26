@@ -1,0 +1,20 @@
+.dishCardImage {
+  width: 100px;
+  height: 100px;
+}
+
+.orderCardImage {
+  width : 20px;
+  height: 20px;
+  margin-right: 10px;
+  margin-top: 2px;
+}
+
+.photoCardImage {
+  width: 100px;
+  height: 100px;
+}
+
+.photoCardImage:hover {
+  box-shadow: 0 0 2px 2px rgba(0, 140, 186, 0.5);
+}
