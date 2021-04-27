@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <copy todir="/Users/sili/Desktop/untitled folder 2/final1/Food/target/classes/public">
+    <fileset dir="/Users/sili/Desktop/untitled folder 2/final1/Food/front-end/build"/>
+  </copy>
+</target>
+</project>
